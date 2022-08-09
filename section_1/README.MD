@@ -8,4 +8,4 @@ Test_ZettaByte API is a simple API article.
 ### npm i or npm install to install package in package.json
 
 ### 2. start API
-### nodemon app.js
+### nodemon app.js to run server and automatic restart the server when there is a change
